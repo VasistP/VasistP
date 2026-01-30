@@ -177,24 +177,16 @@ An **AI agent** leveraging AWS Bedrock and S3 to identify patentable inventions 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 What I'm Working On
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasistP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasistP&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VasistP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/VasistP/VasistP/output/github-contribution-grid-snake-dark.svg)
+```text
+🔭 Currently building    →  Scalable distributed systems & RAG pipelines
+🌱 Deepening expertise   →  HLS for AI Accelerators & Advanced NLP
+👯 Open to collaborate   →  AI/ML, Systems Design, Open Source
+💬 Ask me about          →  Distributed Systems, Cloud Architecture, LLMs
+```
 
 </div>
 
